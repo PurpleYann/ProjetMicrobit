@@ -11,11 +11,10 @@ Notre projet à pour but d'utiliser des éléments spécifiques (cf. Liste Donn�
 Pour notre projet, nous avons utilisé l'éditeur par blocs **micro:bit** (Makecode).
 Notre robot est un robot micro:Maqueen, sans modification supplémentaire.
 
-## 3. Code du robot :
+## 3. Vidéo de présentation :
 
-Notre code sera mis à disposition au sein de cette page.
-> Lien du fichier. 
+> [Lien de la video.](https://youtu.be/QK3_eir4Jb8)
 
-## 4. Vidéo de présentation :
+## 4. Code du robot :
 
-> Lien de la video.
+> Le code du robot n'est pas encore prêt. Il sera disponible d'ici peu.
